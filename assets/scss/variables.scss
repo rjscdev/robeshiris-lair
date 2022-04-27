@@ -1,4 +1,4 @@
-$defaultTagBackgrounds: #8ea885, #df7988, #0177b8, #ffb900, #6b69d6;
+$defaultTagBackgrounds: #9ece6a, #f7768e, #2ac3de, #ff9e64, #bb9af7;
 $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
 /*
@@ -26,8 +26,8 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --scrollbar-track: var(--body-background);
 
     &[data-scheme="dark"] {
-        --body-background: #303030;
-        --accent-color: #ecf0f1;
+        --body-background: #16171f;
+        --accent-color: #9a64ff;
         --accent-color-darker: #bdc3c7;
         --accent-color-text: #000;
         --body-text-color: rgba(255, 255, 255, 0.7);
@@ -78,7 +78,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     }
 
     &[data-scheme="dark"] {
-        --card-background: #424242;
+        --card-background: #1a1b26;
         --card-background-selected: rgba(255, 255, 255, 0.16);
         --card-text-color-main: rgba(255, 255, 255, 0.9);
         --card-text-color-secondary: rgba(255, 255, 255, 0.7);
@@ -154,7 +154,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
 [data-scheme="dark"] {
     --pre-text-color: #f8f8f2;
-    --pre-background-color: #272822;
+    --pre-background-color: #24283b;
     @import "partials/highlight/dark.scss";
 }
 
