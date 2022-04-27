@@ -1,0 +1,19 @@
+<style>
+    
+    :root {
+        --base-font-family: "Cantarell", var(--sys-font-family);
+        --article-font-family: "Cantarell", var(--base-font-family);
+    }
+    </style>
+    
+    <script>
+        (function () {
+            const customFont = document.createElement('link');
+            customFont.href = "https://fonts.googleapis.com/css2?family=Cantarell:ital,wght@0,400;0,700;1,400;1,700&display=swap";
+        
+            customFont.type = "text/css";
+            customFont.rel = "stylesheet";
+        
+            document.head.appendChild(customFont);
+        }());
+    </script>
