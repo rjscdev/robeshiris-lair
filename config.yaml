@@ -14,7 +14,7 @@ languages:
         weight: 2
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+#disqusShortname: hugo-theme-stack
 
 # GA Tracking ID
 googleAnalytics:
@@ -57,7 +57,7 @@ params:
     article:
         math: false
         toc: true
-        readingTime: true
+        readingTime: false
         license:
             enabled: true
             default: Licensed under CC BY-NC-SA 4.0
@@ -174,7 +174,7 @@ params:
         toggle: true
 
         # Available values: auto, light, dark
-        default: auto
+        default: dark
 
     imageProcessing:
         cover:
@@ -185,21 +185,21 @@ params:
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
-menu:
-    main: []
-
-    social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
-          params:
-              icon: brand-github
-
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-              icon: brand-twitter
+#menu:
+#    main: []
+#
+#    social:
+#        - identifier: github
+#          name: GitHub
+#          url: https://github.com/CaiJimmy/hugo-theme-stack
+#          params:
+#              icon: brand-github
+#
+#        - identifier: twitter
+#          name: Twitter
+#          url: https://twitter.com
+#          params:
+#              icon: brand-twitter
 
 related:
     includeNewer: true
