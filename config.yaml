@@ -1,17 +1,17 @@
-baseurl: https://example.com
+baseurl: https://main--eclectic-tanuki-1658c0.netlify.app/
 languageCode: en-us
 paginate: 5
-title: Example Site
+title: Robeshiri's lair
 
 languages:
     en:
         languageName: English
         title: Robeshiri's lair
         weight: 1
-    es:
-        languageName: Español
-        title: La guarida de Robeshiri
-        weight: 2
+#    es:
+# # #      languageName: Español
+#        title: La guarida de Robeshiri
+#        weight: 2
 
 # Change it to your Disqus shortname before using
 #disqusShortname: hugo-theme-stack
@@ -48,7 +48,7 @@ params:
 
     sidebar:
         emoji: 📦
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Hi, im Robe. i'm a NSFW artist 🔞🌟
         avatar:
             enabled: true
             local: true
