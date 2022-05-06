@@ -10,6 +10,9 @@
     {
       "title": "templates",
       "path": "[[workspace]]/archetypes"
+    },
+    {
+      "path": "[[workspace]]/assets/img"
     }
   ]
 }
