@@ -33,3 +33,4 @@ menu:
 
 comments: false
 ---
+<a rel="me" href="https://baraag.net/@MR_R">all my links</a>
