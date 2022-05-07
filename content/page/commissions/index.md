@@ -15,8 +15,10 @@ menu:
 comments: false
 toc: true
 ---
+
+![](commissions.png)
 ## Status
-**Closed ⭕**
+**Open✅**
 
 [Check the Waitlist](/waitlist/).
 ## How To Order a Commission 📝
@@ -42,8 +44,8 @@ in this list you will find the list of things I do and **don't** do.
 ## Prices💰
 | type🏷               	| price💵  	| characters 👫 	| revisions👁 	| extras📦                                                        	|
 |---------------------	|---------	|--------------	|------------	|----------------------------------------------------------------	|
-| sketch✏             	| $20💵    	| 1            	| `None`     	| Extra Character: $10💵 Background: $10💵                         	|
-| lineart & flats  ✒🖌 	| $45💵    	| 1            	| 2          	| Extra Character: $30💵 Alt: $20💵 per alt/panel background: $20💵 	|
+| sketch🖍             	| $20💵    	| 1            	| `None`     	| Extra Character: $10💵 Background: $10💵                         	|
+| lineart & flats  🖌 	| $40💵    	| 1            	| 2          	| Extra Character: $30💵 Alt: $20💵 per alt/panel background: $20💵 	|
 | Full render📦✨       	| $65💵    	| 1            	| 2          	| Extra Character: $45💵 Alt: $30💵 per alt/panel Background: $35💵 	|
 
 ## Terms & Conditions📜

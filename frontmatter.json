@@ -13,6 +13,10 @@
     },
     {
       "path": "[[workspace]]/assets/img"
+    },
+    {
+      "title": "commissions",
+      "path": "[[workspace]]/content/page/commissions"
     }
   ]
 }
