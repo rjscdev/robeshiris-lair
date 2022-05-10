@@ -16,7 +16,7 @@ toc: false
 ---
 | Client 👤 	| Commission Type 📝 	| Extra Characters 👫 	| Background🏕 	| Status 	| Estimated Delivery📆 	|
 |----------	|-------------------	|--------------------	|-------------	|--------	|---------------------	|
-|XanderTTheTogepi|Lineart&Flats🖌|`no`|`no`|***Doing the sketch***|**one to two weeks**|
+|XanderTTheTogepi|Lineart&Flats🖌|`no`|`no`|***Finished***|**one to two weeks**|
 |          	|                   	|                    	|             	|        	|                     	|
 |          	|                   	|                    	|             	|        	|                     	|
 |          	|                   	|                    	|             	|        	|                     	|
