@@ -3,7 +3,7 @@ title: Commissions📦
 description: information about the commissions 💰
 aliases:
   - comms
-  - commisions
+  - commissions
   - art
 license: CC BY-NC-ND
 menu:
@@ -53,6 +53,9 @@ in this list you will find the list of things I do and **don't** do.
 | sketch🖍            | $20💵   | 1             | `None`      | 📦Extra Character: $10💵 📦Background: $10💵                            |
 | lineart & flats  🖌 | $40💵   | 1             | 2           | 📦Extra Character: $30💵 📦Alt: $20💵 per alt/panel 📦background: $20💵 |
 | Full render🖌✨      | $65💵   | 1             | 2           | 📦Extra Character: $45💵 📦Alt: $30💵 per alt/panel 📦Background: $35💵 |
+
+> variants are, as the name says, variants of the base commission, such as: clothing, position of arms, legs, skin color, etc. 
+> complete pose changes or very radical changes do not apply.
 
 ## Terms & Conditions📜
 
