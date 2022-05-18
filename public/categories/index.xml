@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Robeshiri&#39;s lair</title>
-        <link>https://example.com/categories/</link>
+        <link>https://www.robeshiri.art/categories/</link>
         <description>Recent content in Categories on Robeshiri&#39;s lair</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-us</language><atom:link href="https://www.robeshiri.art/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Updates</title>
-        <link>https://example.com/categories/updates/</link>
+        <link>https://www.robeshiri.art/categories/updates/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/categories/updates/</guid>
-        <description>&lt;img src="https://example.com/categories/updates/updates.png" alt="Featured image of post Updates" /&gt;</description>
+        <guid>https://www.robeshiri.art/categories/updates/</guid>
+        <description>&lt;img src="https://www.robeshiri.art/categories/updates/updates.png" alt="Featured image of post Updates" /&gt;</description>
         </item>
         
     </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Robeshiri&#39;s lair</title>
-        <link>https://example.com/page/</link>
+        <link>https://www.robeshiri.art/page/</link>
         <description>Recent content in Pages on Robeshiri&#39;s lair</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 27 Apr 2022 23:06:13 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 27 Apr 2022 23:06:13 +0000</lastBuildDate><atom:link href="https://www.robeshiri.art/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https://example.com/about/</link>
+        <link>https://www.robeshiri.art/about/</link>
         <pubDate>Wed, 27 Apr 2022 23:06:13 +0000</pubDate>
         
-        <guid>https://example.com/about/</guid>
+        <guid>https://www.robeshiri.art/about/</guid>
         <description>&lt;p&gt;Hi, my name is Robeshiri, but you can call me Robe✨
 i&amp;rsquo;m a Nsfw Artist and a freelance artist.&lt;/p&gt;
 &lt;p&gt;As you may have noticed, my art is a bit &amp;ldquo;special✨&amp;rdquo;, which can sometimes be a bit repulsive to some people (^_^.).
@@ -22,28 +22,40 @@ I like to touch on topics out of the ordinary and of course, everything I do is 
         </item>
         <item>
         <title>Archives</title>
-        <link>https://example.com/archives/</link>
+        <link>https://www.robeshiri.art/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/archives/</guid>
+        <guid>https://www.robeshiri.art/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Commissions📦</title>
-        <link>https://example.com/commissions/</link>
+        <link>https://www.robeshiri.art/commissions/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/commissions/</guid>
-        <description>&lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Closed ⭕&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://example.com/waitlist/&#34; &gt;Check the Waitlist&lt;/a&gt;.&lt;/p&gt;
+        <guid>https://www.robeshiri.art/commissions/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://www.robeshiri.art/commissions/commissions.png&#34;
+	width=&#34;2220&#34;
+	height=&#34;1249&#34;
+	srcset=&#34;https://www.robeshiri.art/commissions/commissions_hua4efbeb88272627c1e308fb2a47d9585_1068887_480x0_resize_box_3.png 480w, https://www.robeshiri.art/commissions/commissions_hua4efbeb88272627c1e308fb2a47d9585_1068887_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Open✅&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.robeshiri.art/waitlist/&#34; &gt;Check the Waitlist&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;how-to-order-a-commission-&#34;&gt;How To Order a Commission 📝&lt;/h2&gt;
 &lt;p&gt;to order is easy and simple, you just have to contact me in one of my social networks or preferably discord.&lt;/p&gt;
 &lt;p&gt;Many ideas, many ways to make them.
 under that premise, to order a commission you must have a clear idea of what you want to order.
 it is important that you be as specific as possible, give details and provide reference images for what you want me to do.&lt;/p&gt;
 &lt;p&gt;It is important to clarify that the payment must be in full to start the work (detailed explanation in the
-&lt;a class=&#34;link&#34; href=&#34;https://example.com/commissions/#terms--conditions&#34; &gt;Terms &amp;amp; Conditions&lt;/a&gt;).&lt;/p&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.robeshiri.art/commissions/#terms--conditions&#34; &gt;Terms &amp;amp; Conditions&lt;/a&gt;).&lt;/p&gt;
 &lt;h2 id=&#34;what-i-do-and-what-i-dont-&#34;&gt;what i do and what i don&amp;rsquo;t 📜&lt;/h2&gt;
 &lt;p&gt;As an artist and a person, there are certain things I like and certain things I don&amp;rsquo;t like, as well as things I do and things I don&amp;rsquo;t do.
 in this list you will find the list of things I do and &lt;strong&gt;don&amp;rsquo;t&lt;/strong&gt; do.&lt;/p&gt;
@@ -77,25 +89,25 @@ in this list you will find the list of things I do and &lt;strong&gt;don&amp;rsq
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;sketch✏&lt;/td&gt;
+&lt;td&gt;sketch🖍&lt;/td&gt;
 &lt;td&gt;$20💵&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
 &lt;td&gt;&lt;code&gt;None&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;Extra Character: $10💵 Background: $10💵&lt;/td&gt;
+&lt;td&gt;📦Extra Character: $10💵 📦Background: $10💵&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;lineart &amp;amp; flats  ✒🖌&lt;/td&gt;
-&lt;td&gt;$45💵&lt;/td&gt;
+&lt;td&gt;lineart &amp;amp; flats  🖌&lt;/td&gt;
+&lt;td&gt;$40💵&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;Extra Character: $30💵 Alt: $20💵 per alt/panel background: $20💵&lt;/td&gt;
+&lt;td&gt;📦Extra Character: $30💵 📦Alt: $20💵 per alt/panel 📦background: $20💵&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Full render📦✨&lt;/td&gt;
+&lt;td&gt;Full render🖌✨&lt;/td&gt;
 &lt;td&gt;$65💵&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;Extra Character: $45💵 Alt: $30💵 per alt/panel Background: $35💵&lt;/td&gt;
+&lt;td&gt;📦Extra Character: $45💵 📦Alt: $30💵 per alt/panel 📦Background: $35💵&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -158,39 +170,60 @@ to make the commission I need to be calm, I need you to understand that I can be
         </item>
         <item>
         <title>Links</title>
-        <link>https://example.com/links/</link>
+        <link>https://www.robeshiri.art/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/links/</guid>
-        <description></description>
+        <guid>https://www.robeshiri.art/links/</guid>
+        <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;all my links&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://example.com/search/</link>
+        <link>https://www.robeshiri.art/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/search/</guid>
+        <guid>https://www.robeshiri.art/search/</guid>
         <description></description>
         </item>
         <item>
         <title>Waitlist⏳</title>
-        <link>https://example.com/waitlist/</link>
+        <link>https://www.robeshiri.art/waitlist/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/waitlist/</guid>
+        <guid>https://www.robeshiri.art/waitlist/</guid>
         <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Client 👤&lt;/th&gt;
-&lt;th&gt;Commission Type 📝&lt;/th&gt;
-&lt;th&gt;Extra Characters 👫&lt;/th&gt;
-&lt;th&gt;Background🏕&lt;/th&gt;
-&lt;th&gt;Status&lt;/th&gt;
-&lt;th&gt;Estimated Delivery📆&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Client&lt;/strong&gt; 👤&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Commission Type&lt;/strong&gt; 📝&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Extra Characters&lt;/strong&gt; 👫&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Variants&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Background🏕&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Estimated Delivery&lt;/strong&gt;📆&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td&gt;XanderTTheTogepi&lt;/td&gt;
+&lt;td&gt;Lineart&amp;amp;Flats🖌&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;no&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;no&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;no&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;&lt;strong&gt;Finished&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;&lt;strong&gt;one to two weeks&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ReaperKing&lt;/td&gt;
+&lt;td&gt;Full render🖌✨&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;2&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;3&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;yes&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;&lt;strong&gt;Making the sketch&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;&lt;strong&gt;Three weeks to one month&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -200,21 +233,6 @@ to make the commission I need to be calm, I need you to understand that I can be
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;

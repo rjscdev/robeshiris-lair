@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://example.com/en/sitemap.xml</loc>
-    
-      <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://example.com/es/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.robeshiri.art/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.robeshiri.art/about/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.robeshiri.art/page/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.robeshiri.art/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.robeshiri.art/categories/</loc>
+  </url><url>
+    <loc>https://www.robeshiri.art/commissions/</loc>
+  </url><url>
+    <loc>https://www.robeshiri.art/links/</loc>
+  </url><url>
+    <loc>https://www.robeshiri.art/p/new-site/</loc>
+  </url><url>
+    <loc>https://www.robeshiri.art/post/</loc>
+  </url><url>
+    <loc>https://www.robeshiri.art/search/</loc>
+  </url><url>
+    <loc>https://www.robeshiri.art/tags/</loc>
+  </url><url>
+    <loc>https://www.robeshiri.art/tags/updates/</loc>
+  </url><url>
+    <loc>https://www.robeshiri.art/categories/updates/</loc>
+  </url><url>
+    <loc>https://www.robeshiri.art/waitlist/</loc>
+  </url>
+</urlset>

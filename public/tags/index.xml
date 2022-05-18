@@ -2,9 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Robeshiri&#39;s lair</title>
-        <link>https://example.com/tags/</link>
+        <link>https://www.robeshiri.art/tags/</link>
         <description>Recent content in Tags on Robeshiri&#39;s lair</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language><atom:link href="https://www.robeshiri.art/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Updates</title>
+        <link>https://www.robeshiri.art/tags/updates/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.robeshiri.art/tags/updates/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
