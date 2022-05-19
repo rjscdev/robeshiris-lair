@@ -57,6 +57,11 @@ in this list you will find the list of things I do and **don't** do.
 > variants are, as the name says, variants of the base commission, such as: clothing, position of arms, legs, skin color, etc. 
 > complete pose changes or very radical changes do not apply.
 
+> revisions are the times when you can see the process of the work and when you can suggest changes or verify that everything is ok. once used there will be no more.
+
+| Extra Revision | $8💵 per revision |
+| -------------- | ----------------- |
+
 ## Terms & Conditions📜
 
 ### Be clear 📖
