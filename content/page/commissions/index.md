@@ -59,7 +59,7 @@ in this list you will find the list of things I do and **don't** do.
 > 
 > ***revisions*** are the times when you can see the process of the work and when you can suggest changes or verify that everything is ok. once used there will be** no more**.
 > 
-> ***changes*** are, as the name says, the changes you can suggest to the job, once they have been spent there will be no more.
+> ***changes*** are, as the name says, the changes you can suggest to the job, once they have been spent there will be no more.(changes must be during the sketch)
 
 | **Extra Revision** | $8💵 per revision   |
 | ------------------ | ------------------- |
@@ -114,7 +114,7 @@ click on the following buttons to contact me or to make a payment
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/842037750479847445/)
 [![paypal](https://user-images.githubusercontent.com/88680048/165672202-b582fb0b-908a-40db-8930-234fd48953a0.svg)](https://paypal.me/RoartRjsc)
 
-> f the discord link doesn't work, my user is: **Robeshiri #2962**
+> if the discord link doesn't work, my user is: **Robeshiri #2962**
 
 ## FAQ
 
