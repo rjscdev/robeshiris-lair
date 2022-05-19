@@ -48,19 +48,22 @@ in this list you will find the list of things I do and **don't** do.
 
 ## Prices💰
 
-| type🏷              | price💵 | characters 👫 | revisions👁 | extras📦                                                                |
-| ------------------- | ------- | ------------- | ----------- | ----------------------------------------------------------------------- |
-| sketch🖍            | $20💵   | 1             | `None`      | 📦Extra Character: $10💵 📦Background: $10💵                            |
-| lineart & flats  🖌 | $40💵   | 1             | 2           | 📦Extra Character: $30💵 📦Alt: $20💵 per alt/panel 📦background: $20💵 |
-| Full render🖌✨      | $65💵   | 1             | 2           | 📦Extra Character: $45💵 📦Alt: $30💵 per alt/panel 📦Background: $35💵 |
+| type🏷              | price💵 | characters 👫 | revisions👁 | **Changes⚙** | extras📦                                                                |
+| ------------------- | ------- | ------------- | ----------- | ------------ | ----------------------------------------------------------------------- |
+| sketch🖍            | $20💵   | `1`           | `None`      | `2`          | 📦Extra Character: $10💵 📦Background: $10💵                            |
+| lineart & flats  🖌 | $40💵   | `1`           | `2`         | `2`          | 📦Extra Character: $30💵 📦Alt: $20💵 per alt/panel 📦background: $20💵 |
+| Full render🖌✨      | $65💵   | `1`           | `2`         | `4`          | 📦Extra Character: $45💵 📦Alt: $30💵 per alt/panel 📦Background: $35💵 |
 
-> variants are, as the name says, variants of the base commission, such as: clothing, position of arms, legs, skin color, etc. 
+> ***variants*** are, as the name says, variants of the base commission, such as: clothing, position of arms, legs, skin color, etc. 
 > complete pose changes or very radical changes do not apply.
+> 
+> ***revisions*** are the times when you can see the process of the work and when you can suggest changes or verify that everything is ok. once used there will be** no more**.
+> 
+> ***changes*** are, as the name says, the changes you can suggest to the job, once they have been spent there will be no more.
 
-> revisions are the times when you can see the process of the work and when you can suggest changes or verify that everything is ok. once used there will be no more.
-
-| Extra Revision | $8💵 per revision |
-| -------------- | ----------------- |
+| **Extra Revision** | $8💵 per revision   |
+| ------------------ | ------------------- |
+| **Extra Changes**  | **$5💵 per change** |
 
 ## Terms & Conditions📜
 
@@ -110,6 +113,8 @@ click on the following buttons to contact me or to make a payment
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/842037750479847445/)
 [![paypal](https://user-images.githubusercontent.com/88680048/165672202-b582fb0b-908a-40db-8930-234fd48953a0.svg)](https://paypal.me/RoartRjsc)
+
+> f the discord link doesn't work, my user is: **Robeshiri #2962**
 
 ## FAQ
 
