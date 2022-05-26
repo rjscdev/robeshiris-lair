@@ -17,9 +17,9 @@ toc: false
 
 ---
 
-| **Client** ??Åâ? | **Commission Type** ? | **Extra Characters** ? | **Variants** | **Background??** | **Status**                       | **Estimated Delivery**?ìÜ       |
-| ---------------- | ---------------------- | ----------------------- | ------------ | ----------------- | -------------------------------- | ------------------------------ |
-| XanderTTheTogepi | Lineart&Flats?        | `no`                    | `no`         | `no`              | ***Finished***                   | ***one to two weeks***         |
-| ReaperKing       | Full render?          | `2`                     | `3`          | `yes`             | ***Making the lineart & color*** | ***Three weeks to one month*** |
-|                  |                        |                         |              |                   |                                  |                                |
-|                  |                        |                         |              |                   |                                  |                                |
+| **Client** ?  | **Commission Type** ? | **Extra Characters** ? | **Variants** | **Background??**? | **Status**                | **Estimated Delivery**??       |
+| ---------------- | --------------------- | ---------------------- | ------------ | ---------------- | ------------------------- | ------------------------------ |
+| XanderTTheTogepi | Lineart&Flats?        | `no`                   | `no`         | `no`             | ***Finished***            | ***one to two weeks***         |
+| ReaperKing       | Full render?          | `2`                    | `3`          | `yes`            | ***Making the variants*** | ***Three weeks to one month*** |
+|                  |                       |                        |              |                  |                           |                                |
+|                  |                       |                        |              |                  |                           |                                |
