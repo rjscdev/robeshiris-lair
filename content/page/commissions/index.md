@@ -20,7 +20,7 @@ toc: true
 
 ## Status
 
-**Open✅**
+**Closed⭕**
 
 [Check the Waitlist](/waitlist/).
 
